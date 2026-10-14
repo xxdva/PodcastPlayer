@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClaudeCodeTabState">
+    <option name="tabSessions">
+      <map>
+        <entry key="0">
+          <value>
+            <TabSessionState>
+              <option name="projectPath" value="C:\Users\user\AndroidStudioProjects\MyApplication" />
+              <option name="provider" value="claude" />
+              <option name="sessionId" value="9e4ef0be-7aa6-4801-8f3d-db0964245bb6" />
+              <option name="cwd" value="C:\Users\user\AndroidStudioProjects\MyApplication" />
+              <option name="model" value="claude-sonnet-5[1m]" />
+              <option name="permissionMode" value="default" />
+            </TabSessionState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
